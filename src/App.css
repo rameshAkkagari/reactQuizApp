@@ -186,6 +186,7 @@
     border-radius: 5px;
     text-align: center;
     font-size: 18px;
+    padding: 10px;
   }
 
   .startInput:focus {
@@ -200,6 +201,10 @@
     cursor: pointer;
     font-size: 18px;
     font-weight: 500;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+
   }
 
   .button2 {
